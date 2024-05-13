@@ -1,5 +1,6 @@
 # memorandum
 
+![view](./img/memorandum-view.png)
 View random Samsung memo's on your all files
 
 note: Please put your memo files in /sdcard/Download
