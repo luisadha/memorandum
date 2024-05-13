@@ -5,5 +5,4 @@ function main() {
   eval "libmemorandum-unzip.py $(fd memo.zip | shuf -n1)"
   eval "libmemorandum-parser.py"
 }
-
 main;
