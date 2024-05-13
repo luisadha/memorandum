@@ -13,7 +13,7 @@ memorandum.sh
 ## Install
 
 ```bash
-bash install.sh
+git clone https://github.com/luisadha/memorandum.git; cd memorandum && bash install.sh
 ```
 
 ## Extentions
